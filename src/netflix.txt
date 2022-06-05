@@ -1,5 +1,4 @@
 netflix.com.edgesuite.net
-fast.com
 netflix.com
 netflix.net
 netflixdnstest0.com
