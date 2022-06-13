@@ -55,3 +55,4 @@ tiktokcdn.com
 tiktokv.com
 av01.tv
 torrentapi.org
+emby.wtf
