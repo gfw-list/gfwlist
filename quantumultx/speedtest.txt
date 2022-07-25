@@ -1,0 +1,3 @@
+host-suffix,fast.com,YouTube
+host-suffix,ooklaserver.net,YouTube
+host-suffix,speed.cloudflare.com,YouTube

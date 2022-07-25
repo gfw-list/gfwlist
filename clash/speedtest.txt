@@ -1,0 +1,4 @@
+payload:
+  - '+.fast.com'
+  - '+.ooklaserver.net'
+  - '+.speed.cloudflare.com'
