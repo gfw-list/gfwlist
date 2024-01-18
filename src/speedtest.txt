@@ -1,0 +1,7 @@
+fast.com
+ookla.com
+ooklaserver.net
+speedtest.net
+speed.cloudflare.com
+pingtest.net
+speedtestcustom.com
