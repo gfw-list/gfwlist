@@ -31,3 +31,4 @@ nflxso.net
 nflxvideo.net
 onetrust.com
 us-west-2.amazonaws.com
+us-west-2.elb.amazonaws.com
