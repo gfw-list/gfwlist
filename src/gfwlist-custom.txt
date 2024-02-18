@@ -6,6 +6,7 @@ hub.docker.com
 qqcm01.com
 ipstatp.com
 nic.eu.org
+qbittorrent.org
 
 av01.tv
 torrentapi.org
