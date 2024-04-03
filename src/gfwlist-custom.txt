@@ -49,7 +49,6 @@ dlercloud.com
 notion-api.splitbee.io
 syncnext-api.5mlstudio.com
 123456.al
-misakaf.org
 
 tmdb.org
 api.tmdb.org
