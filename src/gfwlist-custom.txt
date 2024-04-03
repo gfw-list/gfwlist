@@ -87,5 +87,4 @@ api.beijinxuetang.com
 chat-ai.logcg.com
 yahoo.com
 v2board.com
-bing.com
 histar.tv
