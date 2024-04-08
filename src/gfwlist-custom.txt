@@ -1,5 +1,6 @@
 cnbeta.com.tw
 cnbetacdn.com
+googleadservices.com
 dmit.io
 sparklabs.com
 flatcar-linux.net
