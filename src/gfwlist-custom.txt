@@ -11,7 +11,7 @@ ipstatp.com
 nic.eu.org
 qbittorrent.org
 misakaf.org 
-
+doodles.google
 av01.tv
 torrentapi.org
 emby.wtf
