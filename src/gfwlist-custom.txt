@@ -20,6 +20,7 @@ go.dev
 alpinelinux.org
 kp.m-team.cc
 proton.me
+hysteria.network
 
 nbyy.tv
 nivod.tv
