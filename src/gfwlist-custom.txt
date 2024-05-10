@@ -1,5 +1,6 @@
 cnbeta.com.tw
 cnbetacdn.com
+crates.io
 stream-link.org
 stream-link.online
 googleadservices.com
