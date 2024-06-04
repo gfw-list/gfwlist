@@ -13,3 +13,4 @@ https://github.com/Loyalsoldier/v2ray-rules-dat
 
 https://github.com/Loukky/gfwlist-by-loukky
 
+https://github.com/blackmatrix7/ios_rule_script
