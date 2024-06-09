@@ -7,7 +7,6 @@ googleadservices.com
 dmit.io
 sparklabs.com
 flatcar-linux.net
-hub.docker.com
 qqcm01.com
 ipstatp.com
 nic.eu.org
