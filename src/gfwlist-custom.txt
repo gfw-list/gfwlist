@@ -23,6 +23,7 @@ proton.me
 hysteria.network
 python.org
 pypa.io
+pythonhosted.org
 
 nbyy.tv
 nivod.tv
