@@ -21,6 +21,7 @@ alpinelinux.org
 kp.m-team.cc
 proton.me
 hysteria.network
+python.org
 
 nbyy.tv
 nivod.tv
