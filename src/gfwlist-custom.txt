@@ -22,6 +22,7 @@ kp.m-team.cc
 proton.me
 hysteria.network
 python.org
+pypa.io
 
 nbyy.tv
 nivod.tv
