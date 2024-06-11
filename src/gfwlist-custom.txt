@@ -24,6 +24,7 @@ hysteria.network
 python.org
 pypa.io
 pythonhosted.org
+sagernet.org
 
 nbyy.tv
 nivod.tv
