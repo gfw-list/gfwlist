@@ -1,0 +1,5 @@
+# Update Date: Mon Jul  1 10:41:58 CST 2024
+payload: 
+  - DOMAIN,cdn.usefathom.com
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai

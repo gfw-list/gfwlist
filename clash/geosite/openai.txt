@@ -1,0 +1,18 @@
+# UPDATE TIME: 2024-07-01 10:41:55
+payload: 
+  - DOMAIN,chatgpt.com
+  - DOMAIN,o33249.ingest.sentry.io
+  - DOMAIN,oaistatic.com
+  - DOMAIN,oaiusercontent.com
+  - DOMAIN,openai.com
+  - DOMAIN,openai.com.cdn.cloudflare.net
+  - DOMAIN,openaiapi-site.azureedge.net
+  - DOMAIN,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+  - DOMAIN,openaicom.imgix.net
+  - DOMAIN,openaicomproductionae4b.blob.core.windows.net
+  - DOMAIN,production-openaicom-storage.azureedge.net
+  - DOMAIN-SUFFIX,chatgpt.com
+  - DOMAIN-SUFFIX,oaistatic.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,openai.com.cdn.cloudflare.net

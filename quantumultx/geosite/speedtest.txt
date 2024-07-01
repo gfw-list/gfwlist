@@ -1,0 +1,24 @@
+# UPDATE TIME: 2024-07-01 10:41:55
+
+host,cdnst.net,speedtest
+host,cellmaps.com,speedtest
+host,ekahau.cloud,speedtest
+host,ekahau.com,speedtest
+host,ookla.com,speedtest
+host,ooklaserver.net,speedtest
+host,pingtest.net,speedtest
+host,speedtest.co,speedtest
+host,speedtest.net,speedtest
+host,speedtestcustom.com,speedtest
+host,webtest.net,speedtest
+host-suffix,cdnst.net,speedtest
+host-suffix,cellmaps.com,speedtest
+host-suffix,ekahau.cloud,speedtest
+host-suffix,ekahau.com,speedtest
+host-suffix,ookla.com,speedtest
+host-suffix,ooklaserver.net,speedtest
+host-suffix,pingtest.net,speedtest
+host-suffix,speedtest.co,speedtest
+host-suffix,speedtest.net,speedtest
+host-suffix,speedtestcustom.com,speedtest
+host-suffix,webtest.net,speedtest

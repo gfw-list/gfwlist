@@ -1,0 +1,7 @@
+host-suffix,fast.com,Speedtest
+host-suffix,ookla.com,Speedtest
+host-suffix,ooklaserver.net,Speedtest
+host-suffix,speedtest.net,Speedtest
+host-suffix,speed.cloudflare.com,Speedtest
+host-suffix,pingtest.net,Speedtest
+host-suffix,speedtestcustom.com,Speedtest
