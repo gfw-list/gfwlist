@@ -26,6 +26,7 @@ pypa.io
 pythonhosted.org
 sagernet.org
 npmjs.org
+debian.org
 
 nbyy.tv
 nivod.tv
