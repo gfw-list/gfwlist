@@ -1,0 +1,14 @@
+# UPDATE TIME: 2024-11-26 02:16:43
+
+host,apple-icloud.cn,icloud@cn
+host,appleicloud.cn,icloud@cn
+host,icloud-apple.cn,icloud@cn
+host,icloud.com.cn,icloud@cn
+host,icloud.net.cn,icloud@cn
+host,icloudapple.cn,icloud@cn
+host-suffix,apple-icloud.cn,icloud@cn
+host-suffix,appleicloud.cn,icloud@cn
+host-suffix,icloud-apple.cn,icloud@cn
+host-suffix,icloud.com.cn,icloud@cn
+host-suffix,icloud.net.cn,icloud@cn
+host-suffix,icloudapple.cn,icloud@cn

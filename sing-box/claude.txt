@@ -1,0 +1,3 @@
+anthropic.com
+cdn.usefathom.com
+claude.ai

@@ -1,0 +1,9 @@
+# UPDATE TIME: 2024-11-26 02:16:43
+
+host,playstation.com,playstation
+host,playstation.net,playstation
+host,sonyentertainmentnetwork.com,playstation
+host-suffix,playstation,playstation
+host-suffix,playstation.com,playstation
+host-suffix,playstation.net,playstation
+host-suffix,sonyentertainmentnetwork.com,playstation
