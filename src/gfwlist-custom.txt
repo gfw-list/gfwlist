@@ -1,4 +1,4 @@
-v2ex
+v2ex.com
 cnbeta.com.tw
 cnbetacdn.com
 crates.io
