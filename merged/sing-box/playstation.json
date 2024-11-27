@@ -1,0 +1,18 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [],
+            "domain_suffix": [
+                "playstationnetwork.com",
+                ".playstation",
+                "sonyentertainmentnetwork.com",
+                "playstation.com",
+                "playstation.net"
+            ],
+            "domain_keyword": [],
+            "domain_regex": [],
+            "ip_cidr": []
+        }
+    ]
+}

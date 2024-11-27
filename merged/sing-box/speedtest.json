@@ -1,0 +1,33 @@
+{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "www.speedtest.net.cdn.cloudflare.net"
+            ],
+            "domain_suffix": [
+                "ekahau.com",
+                "cellmaps.com",
+                "ookla.com",
+                "speedtestcustom.com",
+                "webtest.net",
+                "ooklaserver.net",
+                "speedtest.net",
+                "speed.dler.io",
+                "pingtest.net",
+                "speedtest.co",
+                "cdnst.net",
+                "speed.cloudflare.com",
+                "ekahau.cloud",
+                "fast.com"
+            ],
+            "domain_keyword": [
+                "speedtest"
+            ],
+            "domain_regex": [
+                "^speed\\.(coe|open)\\.ad\\.[a-z]{2,6}\\.prod\\.hosts\\.ooklaserver\\.net$"
+            ],
+            "ip_cidr": []
+        }
+    ]
+}
