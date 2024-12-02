@@ -1,0 +1,8 @@
+# Updated: Mon Dec 02 22:46:20 CST 2024
+host,speed.dler.io,speedtest
+host-keyword,speedtest,speedtest
+host-suffix,fast.com,speedtest
+host-suffix,ooklaserver.net,speedtest
+host-suffix,speed.cloudflare.com,speedtest
+host-suffix,speed.dler.io,speedtest
+user-agent,speedtest*,speedtest
