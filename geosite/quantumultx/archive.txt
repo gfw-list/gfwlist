@@ -1,0 +1,8 @@
+# Updated: Wed Dec 04 00:46:20 CST 2024
+host-suffix,4pcdn.org,archive
+host-suffix,4plebs.org,archive
+host-suffix,archive-it.org,archive
+host-suffix,archive.org,archive
+host-suffix,archive.ph,archive
+host-suffix,archive.today,archive
+host-suffix,openlibrary.org,archive
