@@ -1,0 +1,13 @@
+# Updated: Sat Dec 07 10:54:39 CST 2024
+host-suffix,mediawiki.org,wikipedia
+host-suffix,wikibooks.org,wikipedia
+host-suffix,wikidata.org,wikipedia
+host-suffix,wikileaks.org,wikipedia
+host-suffix,wikimedia.org,wikipedia
+host-suffix,wikinews.org,wikipedia
+host-suffix,wikipedia.org,wikipedia
+host-suffix,wikiquote.org,wikipedia
+host-suffix,wikisource.org,wikipedia
+host-suffix,wikiversity.org,wikipedia
+host-suffix,wikivoyage.org,wikipedia
+host-suffix,wiktionary.org,wikipedia
