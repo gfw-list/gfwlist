@@ -56,6 +56,8 @@ metadataapi.net
 v1.mk  
 discord.com
 olevod.com
+olelive.com
+olevod.tv
 olemovienews.com
 haiwaikan.com
 bfvvs.com
