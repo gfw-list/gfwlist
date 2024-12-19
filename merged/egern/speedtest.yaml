@@ -1,0 +1,20 @@
+# Updated: Thu Dec 19 10:52:29 CST 2024
+domain_keyword_set:
+  - speedtest
+domain_set:
+  - www.speedtest.net.cdn.cloudflare.net
+domain_suffix_set:
+  - cdnst.net
+  - cellmaps.com
+  - ekahau.cloud
+  - ekahau.com
+  - fast.com
+  - ookla.com
+  - ooklaserver.net
+  - pingtest.net
+  - speed.cloudflare.com
+  - speed.dler.io
+  - speedtest.co
+  - speedtest.net
+  - speedtestcustom.com
+  - webtest.net

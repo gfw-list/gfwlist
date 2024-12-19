@@ -1,0 +1,17 @@
+# Updated: Thu Dec 19 10:52:24 CST 2024
+domain_set:
+  - reddit.map.fastly.net
+
+domain_suffix_set:
+  - redd.it
+  - reddit.app.link
+  - reddit.com
+  - redditblog.com
+  - reddithelp.com
+  - redditinc.com
+  - redditmail.com
+  - redditmedia.com
+  - redditspace.com
+  - redditstatic.com
+  - redditstatus.com
+
