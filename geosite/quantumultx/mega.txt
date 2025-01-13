@@ -1,0 +1,4 @@
+# Updated: Mon Jan 13 10:49:26 CST 2025
+host-suffix,mega.co.nz,mega
+host-suffix,mega.io,mega
+host-suffix,mega.nz,mega

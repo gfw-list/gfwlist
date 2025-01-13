@@ -1,0 +1,4 @@
+# Updated: Mon Jan 13 10:49:27 CST 2025
+host-suffix,zoom.com,zoom
+host-suffix,zoom.com.cn,zoom
+host-suffix,zoom.us,zoom
