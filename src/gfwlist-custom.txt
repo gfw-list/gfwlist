@@ -10,7 +10,6 @@ sparklabs.com
 flatcar-linux.net
 nic.eu.org
 qbittorrent.org
-misakaf.org
 doodles.google
 torrentapi.org
 go.dev
