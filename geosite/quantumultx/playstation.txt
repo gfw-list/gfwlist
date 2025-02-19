@@ -1,0 +1,4 @@
+# Updated: Wed Feb 19 10:41:36 CST 2025
+host-suffix,playstation.com,playstation
+host-suffix,playstation.net,playstation
+host-suffix,sonyentertainmentnetwork.com,playstation
