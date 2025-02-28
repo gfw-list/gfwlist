@@ -1,0 +1,4 @@
+# Updated: Fri Feb 28 10:45:49 CST 2025
+host,cdn.usefathom.com,claude
+host-suffix,anthropic.com,claude
+host-suffix,claude.ai,claude
