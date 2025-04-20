@@ -48,6 +48,7 @@ tmdb.org
 api.tmdb.org
 image.tmdb.org
 api.themoviedb.org
+trakt.tv
 
 thetvdb.com
 api.thetvdb.com 
