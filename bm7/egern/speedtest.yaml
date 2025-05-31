@@ -1,0 +1,10 @@
+# Updated: Sat May 31 11:04:15 CST 2025
+domain_suffix_set:
+  - fast.com
+  - ooklaserver.net
+  - speed.cloudflare.com
+  - speed.dler.io
+
+domain_keyword_set:
+  - speedtest
+

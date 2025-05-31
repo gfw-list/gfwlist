@@ -1,0 +1,24 @@
+# Updated: Sat May 31 11:04:32 CST 2025
+domain_set:
+  - ai.google.dev
+  - alkalicore-pa.clients6.google.com
+  - alkalimakersuite-pa.clients6.google.com
+  - webchannel-alkalimakersuite-pa.clients6.google.com
+
+domain_suffix_set:
+  - aistudio.google.com
+  - bard.google.com
+  - deepmind.com
+  - deepmind.google
+  - geller-pa.googleapis.com
+  - gemini.google
+  - gemini.google.com
+  - generativeai.google
+  - generativelanguage.googleapis.com
+  - jules.google
+  - jules.google.com
+  - makersuite.google.com
+  - notebooklm.google
+  - notebooklm.google.com
+  - proactivebackend-pa.googleapis.com
+
