@@ -1,0 +1,4 @@
+# Updated: Fri Jun 13 11:11:43 CST 2025
+host-suffix,xhscdn.com,xiaohongshu
+host-suffix,xhscdn.net,xiaohongshu
+host-suffix,xiaohongshu.com,xiaohongshu
