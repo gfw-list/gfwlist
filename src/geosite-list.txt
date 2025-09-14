@@ -21,7 +21,6 @@ hbo
 netflix
 spotify
 
-xiaohongshu
 bytedance@!cn
 
 openai
