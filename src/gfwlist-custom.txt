@@ -56,7 +56,6 @@ thetvdb.com
 api.thetvdb.com 
 assets.fanart.tv 
 metadataapi.net
-micu.hk
 
 v1.mk  
 discord.com
