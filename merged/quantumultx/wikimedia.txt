@@ -1,0 +1,19 @@
+# Updated: Sat Nov 22 10:57:22 CST 2025
+host-suffix,mediawiki.org,wikimedia
+host-suffix,toolforge.org,wikimedia
+host-suffix,w.wiki,wikimedia
+host-suffix,wikibooks.org,wikimedia
+host-suffix,wikidata.org,wikimedia
+host-suffix,wikimedia.org,wikimedia
+host-suffix,wikimediacloud.org,wikimedia
+host-suffix,wikimediafoundation.org,wikimedia
+host-suffix,wikinews.org,wikimedia
+host-suffix,wikipedia.org,wikimedia
+host-suffix,wikiquote.org,wikimedia
+host-suffix,wikisource.org,wikimedia
+host-suffix,wikiversity.org,wikimedia
+host-suffix,wikivoyage.org,wikimedia
+host-suffix,wiktionary.org,wikimedia
+host-suffix,wmcloud.org,wikimedia
+host-suffix,wmflabs.org,wikimedia
+host-suffix,wmfusercontent.org,wikimedia

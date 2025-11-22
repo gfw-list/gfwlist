@@ -1,0 +1,20 @@
+# Updated: Sat Nov 22 10:57:21 CST 2025
+host-suffix,cdn-telegram.org,telegram
+host-suffix,comments.app,telegram
+host-suffix,contest.com,telegram
+host-suffix,fragment.com,telegram
+host-suffix,graph.org,telegram
+host-suffix,quiz.directory,telegram
+host-suffix,t.me,telegram
+host-suffix,tdesktop.com,telegram
+host-suffix,telega.one,telegram
+host-suffix,telegra.ph,telegram
+host-suffix,telegram-cdn.org,telegram
+host-suffix,telegram.dog,telegram
+host-suffix,telegram.me,telegram
+host-suffix,telegram.org,telegram
+host-suffix,telegram.space,telegram
+host-suffix,telesco.pe,telegram
+host-suffix,tg.dev,telegram
+host-suffix,tx.me,telegram
+host-suffix,usercontent.dev,telegram

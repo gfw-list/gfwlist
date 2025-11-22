@@ -1,0 +1,24 @@
+# Updated: Sat Nov 22 10:57:21 CST 2025
+host,ai.google.dev,google-gemini
+host,alkalicore-pa.clients6.google.com,google-gemini
+host,alkalimakersuite-pa.clients6.google.com,google-gemini
+host,webchannel-alkalimakersuite-pa.clients6.google.com,google-gemini
+host-suffix,aida.googleapis.com,google-gemini
+host-suffix,aisandbox-pa.googleapis.com,google-gemini
+host-suffix,aistudio.google.com,google-gemini
+host-suffix,bard.google.com,google-gemini
+host-suffix,deepmind.com,google-gemini
+host-suffix,deepmind.google,google-gemini
+host-suffix,geller-pa.googleapis.com,google-gemini
+host-suffix,gemini.google,google-gemini
+host-suffix,gemini.google.com,google-gemini
+host-suffix,generativeai.google,google-gemini
+host-suffix,generativelanguage.googleapis.com,google-gemini
+host-suffix,jules.google,google-gemini
+host-suffix,jules.google.com,google-gemini
+host-suffix,labs.google,google-gemini
+host-suffix,makersuite.google.com,google-gemini
+host-suffix,notebooklm.google,google-gemini
+host-suffix,notebooklm.google.com,google-gemini
+host-suffix,proactivebackend-pa.googleapis.com,google-gemini
+host-suffix,robinfrontend-pa.googleapis.com,google-gemini

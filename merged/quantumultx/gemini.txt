@@ -1,0 +1,14 @@
+# Updated: Sat Nov 22 10:57:11 CST 2025
+host,ai.google.dev,gemini
+host,alkalimakersuite-pa.clients6.google.com,gemini
+host,makersuite.google.com,gemini
+host-keyword,colab,gemini
+host-keyword,developerprofiles,gemini
+host-keyword,generativelanguage,gemini
+host-suffix,apis.google.com,gemini
+host-suffix,bard.google.com,gemini
+host-suffix,deepmind.com,gemini
+host-suffix,deepmind.google,gemini
+host-suffix,gemini.google.com,gemini
+host-suffix,generativeai.google,gemini
+host-suffix,proactivebackend-pa.googleapis.com,gemini

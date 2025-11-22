@@ -1,0 +1,25 @@
+# Updated: Sat Nov 22 10:57:22 CST 2025
+host-suffix,ads-twitter.com,twitter
+host-suffix,cms-twdigitalassets.com,twitter
+host-suffix,periscope.tv,twitter
+host-suffix,pscp.tv,twitter
+host-suffix,t.co,twitter
+host-suffix,tellapart.com,twitter
+host-suffix,tweetdeck.com,twitter
+host-suffix,twimg.com,twitter
+host-suffix,twitpic.com,twitter
+host-suffix,twitter.biz,twitter
+host-suffix,twitter.com,twitter
+host-suffix,twitter.jp,twitter
+host-suffix,twitter.map.fastly.net,twitter
+host-suffix,twittercommunity.com,twitter
+host-suffix,twitterflightschool.com,twitter
+host-suffix,twitterinc.com,twitter
+host-suffix,twitteroauth.com,twitter
+host-suffix,twitterstat.us,twitter
+host-suffix,twtrdns.net,twitter
+host-suffix,twttr.com,twitter
+host-suffix,twttr.net,twitter
+host-suffix,twvid.com,twitter
+host-suffix,vine.co,twitter
+host-suffix,x.com,twitter

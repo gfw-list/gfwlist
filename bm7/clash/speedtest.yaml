@@ -1,0 +1,7 @@
+# Updated: Sat Nov 22 10:57:13 CST 2025
+payload:
+  - DOMAIN-SUFFIX,fast.com
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN-SUFFIX,speed.cloudflare.com
+  - DOMAIN-SUFFIX,speed.dler.io
+  - DOMAIN-KEYWORD,speedtest

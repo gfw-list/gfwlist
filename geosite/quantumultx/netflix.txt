@@ -1,0 +1,25 @@
+# Updated: Sat Nov 22 10:57:21 CST 2025
+host,netflix.com.edgesuite.net,netflix
+host-suffix,fast.com,netflix
+host-suffix,netflix.ca,netflix
+host-suffix,netflix.com,netflix
+host-suffix,netflix.net,netflix
+host-suffix,netflixdnstest0.com,netflix
+host-suffix,netflixdnstest1.com,netflix
+host-suffix,netflixdnstest10.com,netflix
+host-suffix,netflixdnstest2.com,netflix
+host-suffix,netflixdnstest3.com,netflix
+host-suffix,netflixdnstest4.com,netflix
+host-suffix,netflixdnstest5.com,netflix
+host-suffix,netflixdnstest6.com,netflix
+host-suffix,netflixdnstest7.com,netflix
+host-suffix,netflixdnstest8.com,netflix
+host-suffix,netflixdnstest9.com,netflix
+host-suffix,netflixinvestor.com,netflix
+host-suffix,netflixtechblog.com,netflix
+host-suffix,nflxext.com,netflix
+host-suffix,nflximg.com,netflix
+host-suffix,nflximg.net,netflix
+host-suffix,nflxsearch.net,netflix
+host-suffix,nflxso.net,netflix
+host-suffix,nflxvideo.net,netflix

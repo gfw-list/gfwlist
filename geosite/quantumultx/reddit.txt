@@ -1,0 +1,13 @@
+# Updated: Sat Nov 22 10:57:21 CST 2025
+host-suffix,redd.it,reddit
+host-suffix,reddit.app.link,reddit
+host-suffix,reddit.com,reddit
+host-suffix,reddit.map.fastly.net,reddit
+host-suffix,redditblog.com,reddit
+host-suffix,reddithelp.com,reddit
+host-suffix,redditinc.com,reddit
+host-suffix,redditmail.com,reddit
+host-suffix,redditmedia.com,reddit
+host-suffix,redditspace.com,reddit
+host-suffix,redditstatic.com,reddit
+host-suffix,redditstatus.com,reddit

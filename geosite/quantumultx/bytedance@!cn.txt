@@ -1,0 +1,27 @@
+# Updated: Sat Nov 22 10:57:21 CST 2025
+host,bytedance.map.fastly.net,bytedance@!cn
+host,p16-tiktokcdn-com.akamaized.net,bytedance@!cn
+host-suffix,byteglb.com,bytedance@!cn
+host-suffix,byteoversea.com,bytedance@!cn
+host-suffix,byteoversea.net,bytedance@!cn
+host-suffix,ibytedtos.com,bytedance@!cn
+host-suffix,ibyteimg.com,bytedance@!cn
+host-suffix,muscdn.com,bytedance@!cn
+host-suffix,musical.ly,bytedance@!cn
+host-suffix,tik-tokapi.com,bytedance@!cn
+host-suffix,tiktok.com,bytedance@!cn
+host-suffix,tiktokcdn-eu.com,bytedance@!cn
+host-suffix,tiktokcdn-us.com,bytedance@!cn
+host-suffix,tiktokcdn.com,bytedance@!cn
+host-suffix,tiktokd.net,bytedance@!cn
+host-suffix,tiktokd.org,bytedance@!cn
+host-suffix,tiktokeu-cdn.com,bytedance@!cn
+host-suffix,tiktokrow-cdn.com,bytedance@!cn
+host-suffix,tiktokv.com,bytedance@!cn
+host-suffix,tiktokv.eu,bytedance@!cn
+host-suffix,tiktokv.us,bytedance@!cn
+host-suffix,tiktokw.eu,bytedance@!cn
+host-suffix,tiktokw.us,bytedance@!cn
+host-suffix,ttlivecdn.com,bytedance@!cn
+host-suffix,ttoverseaus.net,bytedance@!cn
+host-suffix,ttwstatic.com,bytedance@!cn

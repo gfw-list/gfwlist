@@ -1,0 +1,12 @@
+# Updated: Sat Nov 22 10:57:21 CST 2025
+host-suffix,1drv.com,onedrive
+host-suffix,1drv.ms,onedrive
+host-suffix,livefilestore.com,onedrive
+host-suffix,onedrive.co,onedrive
+host-suffix,onedrive.co.uk,onedrive
+host-suffix,onedrive.com,onedrive
+host-suffix,onedrive.eu,onedrive
+host-suffix,onedrive.live.com,onedrive
+host-suffix,onedrive.net,onedrive
+host-suffix,onedrive.org,onedrive
+host-suffix,storage.live.com,onedrive

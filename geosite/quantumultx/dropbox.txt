@@ -1,0 +1,17 @@
+# Updated: Sat Nov 22 10:57:21 CST 2025
+host,paper-attachments.s3.amazonaws.com,dropbox
+host-suffix,db.tt,dropbox
+host-suffix,dropbox-dns.com,dropbox
+host-suffix,dropbox.com,dropbox
+host-suffix,dropbox.tech,dropbox
+host-suffix,dropboxapi.com,dropbox
+host-suffix,dropboxbusiness.com,dropbox
+host-suffix,dropboxcaptcha.com,dropbox
+host-suffix,dropboxforum.com,dropbox
+host-suffix,dropboxforums.com,dropbox
+host-suffix,dropboxinsiders.com,dropbox
+host-suffix,dropboxmail.com,dropbox
+host-suffix,dropboxpartners.com,dropbox
+host-suffix,dropboxstatic.com,dropbox
+host-suffix,dropboxusercontent.com,dropbox
+host-suffix,getdropbox.com,dropbox

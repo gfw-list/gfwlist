@@ -1,0 +1,24 @@
+# Updated: Sat Nov 22 10:57:21 CST 2025
+host,audio-ak-spotify-com.akamaized.net,spotify
+host,audio4-ak-spotify-com.akamaized.net,spotify
+host,cdn-spotify-experiments.conductrics.com,spotify
+host,heads-ak-spotify-com.akamaized.net,spotify
+host,heads4-ak-spotify-com.akamaized.net,spotify
+host,spotify.com.edgesuite.net,spotify
+host,spotify.map.fastly.net,spotify
+host,spotify.map.fastlylb.net,spotify
+host-suffix,byspotify.com,spotify
+host-suffix,pscdn.co,spotify
+host-suffix,scdn.co,spotify
+host-suffix,spoti.fi,spotify
+host-suffix,spotify-everywhere.com,spotify
+host-suffix,spotify.com,spotify
+host-suffix,spotify.design,spotify
+host-suffix,spotify.link,spotify
+host-suffix,spotifycdn.com,spotify
+host-suffix,spotifycdn.net,spotify
+host-suffix,spotifycharts.com,spotify
+host-suffix,spotifycodes.com,spotify
+host-suffix,spotifyforbrands.com,spotify
+host-suffix,spotifyjobs.com,spotify
+host-suffix,tospotify.com,spotify

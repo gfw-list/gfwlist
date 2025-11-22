@@ -1,0 +1,22 @@
+# Updated: Sat Nov 22 10:57:21 CST 2025
+host,p16-tiktokcdn-com.akamaized.net,tiktok
+host-suffix,byteoversea.com,tiktok
+host-suffix,muscdn.com,tiktok
+host-suffix,musical.ly,tiktok
+host-suffix,tik-tokapi.com,tiktok
+host-suffix,tiktok.com,tiktok
+host-suffix,tiktokcdn-eu.com,tiktok
+host-suffix,tiktokcdn-us.com,tiktok
+host-suffix,tiktokcdn.com,tiktok
+host-suffix,tiktokd.net,tiktok
+host-suffix,tiktokd.org,tiktok
+host-suffix,tiktokeu-cdn.com,tiktok
+host-suffix,tiktokrow-cdn.com,tiktok
+host-suffix,tiktokv.com,tiktok
+host-suffix,tiktokv.eu,tiktok
+host-suffix,tiktokv.us,tiktok
+host-suffix,tiktokw.eu,tiktok
+host-suffix,tiktokw.us,tiktok
+host-suffix,ttlivecdn.com,tiktok
+host-suffix,ttoverseaus.net,tiktok
+host-suffix,ttwstatic.com,tiktok

@@ -1,0 +1,18 @@
+# Updated: Sat Nov 22 10:57:21 CST 2025
+host,browser-intake-datadoghq.com,openai
+host,o33249.ingest.sentry.io,openai
+host,openaiapi-site.azureedge.net,openai
+host,openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net,openai
+host,openaicom.imgix.net,openai
+host,openaicomproductionae4b.blob.core.windows.net,openai
+host,production-openaicom-storage.azureedge.net,openai
+host-suffix,chat.com,openai
+host-suffix,chatgpt.com,openai
+host-suffix,chatgpt.livekit.cloud,openai
+host-suffix,host.livekit.cloud,openai
+host-suffix,oaistatic.com,openai
+host-suffix,oaiusercontent.com,openai
+host-suffix,openai.com,openai
+host-suffix,openai.com.cdn.cloudflare.net,openai
+host-suffix,sora.com,openai
+host-suffix,turn.livekit.cloud,openai

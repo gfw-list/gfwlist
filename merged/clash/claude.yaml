@@ -1,0 +1,5 @@
+# Updated: Sat Nov 22 10:57:14 CST 2025
+payload:
+  - DOMAIN,cdn.usefathom.com
+  - DOMAIN-SUFFIX,anthropic.com
+  - DOMAIN-SUFFIX,claude.ai

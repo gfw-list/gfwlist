@@ -1,0 +1,13 @@
+# Updated: Sat Nov 22 10:57:21 CST 2025
+host,www.speedtest.net.cdn.cloudflare.net,speedtest
+host-suffix,cdnst.net,speedtest
+host-suffix,cellmaps.com,speedtest
+host-suffix,ekahau.cloud,speedtest
+host-suffix,ekahau.com,speedtest
+host-suffix,ookla.com,speedtest
+host-suffix,ooklaserver.net,speedtest
+host-suffix,pingtest.net,speedtest
+host-suffix,speedtest.co,speedtest
+host-suffix,speedtest.net,speedtest
+host-suffix,speedtestcustom.com,speedtest
+host-suffix,webtest.net,speedtest

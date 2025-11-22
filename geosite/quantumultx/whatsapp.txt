@@ -1,0 +1,14 @@
+# Updated: Sat Nov 22 10:57:22 CST 2025
+host-suffix,graph.whatsapp.com,whatsapp
+host-suffix,graph.whatsapp.net,whatsapp
+host-suffix,wa.me,whatsapp
+host-suffix,whatsapp-plus.info,whatsapp
+host-suffix,whatsapp-plus.me,whatsapp
+host-suffix,whatsapp-plus.net,whatsapp
+host-suffix,whatsapp.cc,whatsapp
+host-suffix,whatsapp.com,whatsapp
+host-suffix,whatsapp.info,whatsapp
+host-suffix,whatsapp.net,whatsapp
+host-suffix,whatsapp.org,whatsapp
+host-suffix,whatsapp.tv,whatsapp
+host-suffix,whatsappbrand.com,whatsapp
