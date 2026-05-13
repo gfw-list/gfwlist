@@ -21,12 +21,13 @@ hbo
 netflix
 spotify
 
+category-porn
+
 bytedance@!cn
 
 openai
 google-gemini
 category-ai-chat-!cn
-category-porn
 
 playstation
 nintendo
