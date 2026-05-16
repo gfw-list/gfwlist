@@ -1,0 +1,19 @@
+# Updated: Sat May 16 13:14:52 CST 2026
+host-suffix,4pcdn.org,archive
+host-suffix,4plebs.org,archive
+host-suffix,archive-it.org,archive
+host-suffix,archive.fo,archive
+host-suffix,archive.is,archive
+host-suffix,archive.li,archive
+host-suffix,archive.md,archive
+host-suffix,archive.org,archive
+host-suffix,archive.ph,archive
+host-suffix,archive.today,archive
+host-suffix,archive.vn,archive
+host-suffix,eotarchive.org,archive
+host-suffix,ghostarchive.org,archive
+host-suffix,megalodon.jp,archive
+host-suffix,mementoweb.org,archive
+host-suffix,openlibrary.org,archive
+host-suffix,perma.cc,archive
+host-suffix,webcitation.org,archive

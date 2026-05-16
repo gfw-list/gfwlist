@@ -1,0 +1,4 @@
+# Updated: Sat May 16 13:14:52 CST 2026
+host-suffix,ptt.cc,ptt
+host-suffix,ptt2.cc,ptt
+host-suffix,ptt3.cc,ptt

@@ -1,0 +1,4 @@
+# Updated: Sat May 16 13:14:52 CST 2026
+host-suffix,imgur.com,imgur
+host-suffix,imgur.io,imgur
+host-suffix,imgurinc.com,imgur

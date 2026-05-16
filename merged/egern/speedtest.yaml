@@ -1,0 +1,21 @@
+# Updated: Sat May 16 13:15:01 CST 2026
+domain_suffix_set:
+  - fast.com
+  - ooklaserver.net
+  - speed.cloudflare.com
+  - speed.dler.io
+  - cdnst.net
+  - cellmaps.com
+  - ekahau.cloud
+  - ekahau.com
+  - ookla-speedtest-central.hgconair.hgc.com.hk
+  - ookla.com
+  - pingtest.net
+  - speedtest.co
+  - speedtest.net
+  - speedtestcustom.com
+  - webtest.net
+domain_keyword_set:
+  - speedtest
+domain_set:
+  - www.speedtest.net.cdn.cloudflare.net

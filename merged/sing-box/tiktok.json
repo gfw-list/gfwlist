@@ -1,0 +1,70 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain": [
+        "lf16-effectcdn.byteeffecttos-g.com",
+        "lf16-pkgcdn.pitaya-clientai.com",
+        "p16-tiktokcdn-com.akamaized.net",
+        "trae-api-sg.mchost.guru",
+        "roovza-launches.appsflyersdk.com",
+        "roovza.inapps.appsflyersdk.com",
+        "roovza.launches.appsflyersdk.com",
+        "roovza.skadsdk.appsflyersdk.com"
+      ],
+      "domain_suffix": [
+        "bytedapm.com",
+        "bytegecko-i18n.com",
+        "byteintlapi.com",
+        "byteoversea.com",
+        "capcut.com",
+        "ibytedtos.com",
+        "ibyteimg.com",
+        "ipstatp.com",
+        "isnssdk.com",
+        "marscode.com",
+        "muscdn.com",
+        "musical.ly",
+        "sgpstatp.com",
+        "snssdk.com",
+        "tik-tokapi.com",
+        "tiktok.com",
+        "tiktokcdn-us.com",
+        "tiktokcdn.com",
+        "tiktokd.net",
+        "tiktokd.org",
+        "tiktokmusic.app",
+        "tiktokv.com",
+        "tiktokv.us",
+        "trae.ai",
+        "ttwebview.com",
+        "analytics.tiktok.com",
+        "tiktok-minis.com",
+        "tiktok-row.net",
+        "tiktokcdn-eu.com",
+        "tiktokcdn-us.com.edgesuite.net",
+        "tiktokcdn.com.akamaized.net",
+        "tiktokcdn.com.edgesuite.net",
+        "tiktokeu-cdn.com",
+        "tiktokglobalshopv.com",
+        "tiktokminis.us",
+        "tiktokrow-cdn.com",
+        "tiktokv.com.edgekey.net",
+        "tiktokv.com.edgesuite.net",
+        "tiktokv.eu",
+        "tiktokw.eu",
+        "tiktokw.us",
+        "ttcdn-us.com",
+        "ttlivecdn.com",
+        "ttoverseaus.net",
+        "ttwstatic.com"
+      ],
+      "domain_keyword": [
+        "musical.ly",
+        "tiktok"
+      ],
+      "domain_regex": [],
+      "ip_cidr": []
+    }
+  ]
+}
